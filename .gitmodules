@@ -1,0 +1,3 @@
+[submodule "PatchMatch-Stereo"]
+	path = PatchMatch-Stereo
+	url = git@github.com:objectc/PatchMatch-Stereo.git
